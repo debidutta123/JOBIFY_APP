@@ -14,7 +14,7 @@ const Landing = () => {
                 <div className="info">
                     <h1>job <span>tracking</span> app</h1>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos sunt eligendi at fugit maiores aut voluptates hic exercitationem nisi deserunt dolorem, iusto similique ad accusamus voluptate dolorum itaque iure quisquam?
+                        Track your job applications with ease — stay organized, stay focused, and land your dream job with Jobify.
                     </p>
                     <Link to="/register" className="btn register-link">
                         Register
